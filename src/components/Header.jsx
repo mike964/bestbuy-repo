@@ -18,7 +18,7 @@ const Header = () => {
               <a className="nav-link" href="#">Link</a>
             </li> */}
             <li className="nav-item">
-              <a className="nav-link" href="#">Coming Soon... </a>
+              <a className="nav-link" href='/'>Coming Soon... </a>
             </li>
           </ul>
           <form className="form-inline mt-2 mt-md-0">
