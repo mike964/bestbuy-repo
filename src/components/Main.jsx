@@ -99,10 +99,9 @@ const Main = () => {
       <div className="container text-center " //style={ { background: '#222' } }
       >
         <div class="copyright text-light">
-
-          <p>  Copyright © 2021 TM6 Ltd. All rights reserved.</p>
           <p><i className="fas fa-phone-alt" /> +9647815985518 </p>
           <p className="x">Iraq - Baghdad</p>
+          <p>  Copyright © 2021 TM6 Ltd. All rights reserved.</p>
         </div>
       </div>
     </div>
