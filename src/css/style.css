@@ -1,0 +1,52 @@
+body {
+  font-size: 16px;
+}
+.app {
+  min-height: 900px;
+  background-color: rgb(255, 255, 255);
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  /* -ms-transform: translateY(-50%); */
+  /* transform: translateY(-50%); */
+}
+
+.centered { 
+    position: absolute;
+    top: 60%;
+    /* top: 30%; */
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    color: white;
+    font-weight: 500;
+  } 
+
+  .bg-shadow {
+    background-color: rgba(0, 0, 0, 0.726);
+  }
+  
+
+.v-center { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.bg-w {
+    background-color: white;
+  }
+.bg-b {
+    background-color: rgb(0, 0, 0);
+  }
+
+.white {
+color: white;
+  }
+
+.black{
+color: black;
+}
